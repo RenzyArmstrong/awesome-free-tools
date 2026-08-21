@@ -76,6 +76,8 @@ We only list freemium (💎) tools when the free tier is *actually useful on its
 - [Figma](https://figma.com) — Collaborative interface design; free for individuals. 💎
 - [Canva](https://canva.com) — Template-driven design for non-designers; big free library. 💎
 - [Pixlr](https://pixlr.com) — Browser-based photo editor with a capable free tier. 💎 🌐
+- [Codex Theme Builder](https://codextheme.tools) — Browser theme builder for OpenAI Codex with live preview and CSS token export. 🆓 🌐
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) — Convert any image into a crochet pattern in the browser. 🆓 🌐
 
 ## 📐 Diagrams & Whiteboards
 
@@ -162,6 +164,10 @@ We only list freemium (💎) tools when the free tier is *actually useful on its
 - [qBittorrent](https://www.qbittorrent.org) — Ad-free, open-source BitTorrent client. 🔓
 - [Ventoy](https://www.ventoy.net) — Drop ISOs onto a USB and boot any of them. 🔓
 - [Rufus](https://rufus.ie) — Create bootable USB drives quickly. 🔓
+- [WattsCalc](https://wattscalc.com) — Wattage and electricity cost calculator for appliances and devices. 🆓 🌐
+- [Pressure Washer Fix](https://pressurewasherfix.com) — Troubleshooting guides for common pressure washer problems. 🆓 🌐
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) — Lawn mowing cost estimates by area, rate, and extras. 🆓 🌐
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) — Embroidery job pricing from stitches, fabric, and labor. 🆓 🌐
 
 ## 💻 Developer Tools
 
@@ -210,6 +216,7 @@ We only list freemium (💎) tools when the free tier is *actually useful on its
 - [Stretchly](https://hovancik.net/stretchly) — Gentle break reminders to protect your eyes and wrists. 🔓
 - [Pomofocus](https://pomofocus.io) — Clean Pomodoro timer that runs in your browser. 🆓 🌐
 - [Toggl Track](https://toggl.com) — Frictionless time tracking with a free tier. 💎
+- [SkyCOTL Tools](https://skycotl.tools) — Free guides and calculators for Sky: Children of the Light. 🆓 🌐
 
 ---
 
