@@ -121,6 +121,7 @@ We only list freemium (💎) tools when the free tier is *actually useful on its
 - [ONLYOFFICE](https://www.onlyoffice.com) — Office suite with excellent MS Office compatibility. 🔓
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) — Self-hosted toolkit for 50+ PDF operations. 🔓
 - [PDF24 Tools](https://tools.pdf24.org) — Free online PDF tools, no upload limits. 🆓 🌐
+- [FileOnTap](https://fileontap.com/) — Free browser-local **File Converter** for HEIC↔JPG/PNG/WebP, image compression with size preview, and image↔PDF. Files never leave the device. 🆓 🌐
 - [LanguageTool](https://languagetool.org) — Open-source grammar and style checker (25+ languages). 🔓
 - [Zotero](https://www.zotero.org) — Collect, organize and cite research sources. 🔓
 - [Calibre](https://calibre-ebook.com) — Manage, convert and read your entire e-book library. 🔓
