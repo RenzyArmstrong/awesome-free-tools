@@ -209,6 +209,7 @@ We only list freemium (💎) tools when the free tier is *actually useful on its
 - [Jitsi Meet](https://meet.jit.si) — Instant video meetings, no account required. 🔓 🌐
 - [Stretchly](https://hovancik.net/stretchly) — Gentle break reminders to protect your eyes and wrists. 🔓
 - [Pomofocus](https://pomofocus.io) — Clean Pomodoro timer that runs in your browser. 🆓 🌐
+- [My Nine Games](https://myninegames.com/) — Free browser maker for a personal 3×3 games collage with PNG export and share links. 🆓 🌐
 - [Toggl Track](https://toggl.com) — Frictionless time tracking with a free tier. 💎
 
 ---
