@@ -175,6 +175,7 @@ We only list freemium (💎) tools when the free tier is *actually useful on its
 - [Bruno](https://www.usebruno.com) — Git-friendly, fully offline API client. 🔓
 - [GitHub Desktop](https://desktop.github.com) — Friendly Git GUI for everyday workflows. 🆓
 - [DevToys](https://devtoys.app) — A Swiss-army knife of small developer utilities. 🔓
+- [BestJSON](https://bestjson.com/) — Format, validate, preview repairs and compare JSON structures locally in the browser. 🆓 🌐
 - [regex101](https://regex101.com) — Build, test and debug regular expressions in the browser. 🆓 🌐
 - [DevDocs](https://devdocs.io) — Fast, offline-capable API documentation browser. 🔓 🌐
 - [Warp](https://www.warp.dev) — Modern, fast terminal with a useful free tier. 💎
